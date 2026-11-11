@@ -62,17 +62,14 @@
 
 ### 📈 إحصائياتي
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oni68real&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e4d&icon_color=22e4ff&text_color=c9d1d9&ring_color=ff2e4d"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oni68real&layout=compact&hide_border=true&bg_color=0d1117&title_color=22e4ff&text_color=c9d1d9"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oni68real&theme=radical"/>
+</p>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oni68real&theme=radical"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oni68real&theme=radical"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=oni68real&hide_border=true&background=0D1117&ring=FF2E4D&fire=FF2E4D&currStreakLabel=22E4FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oni68real&bg_color=0d1117&color=22e4ff&line=ff2e4d&point=ffffff&area=true&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oni68real&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
 
 <p align="center">
